@@ -345,10 +345,11 @@ a {
 }
 
 .article-list-box > ul > li {
-  border:2px solid black;
+  border:2px solid paleturquoise;
   padding:20px;
   border-radius:20px;
   margin-top:20px;
+  background-color: #ffffff;
 }
 
 /* 메인 끝 */
