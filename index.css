@@ -344,4 +344,11 @@ a {
   margin-bottom: 30px;
 }
 
+.article-list-box > ul > li {
+  border:2px solid black;
+  padding:20px;
+  border-radius:20px;
+  margin-top:20px;
+}
+
 /* 메인 끝 */
